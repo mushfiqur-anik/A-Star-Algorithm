@@ -5,6 +5,8 @@
 ## File List
 
 ## Built with
+* [**Python**](https://en.wikipedia.org/wiki/Python_(programming_language)) - The Programming language used
+* [**PyCharm**](https://en.wikipedia.org/wiki/PyCharm) - The IDE used
 
 ## Author(s)
 
