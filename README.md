@@ -3,7 +3,7 @@
 ## Description of the problem
 
 ## File List
--CrimeAnalytics.py
+- CrimeAnalytics.py
 
 ## Built with
 * [**Python**](https://en.wikipedia.org/wiki/Python_(programming_language)) - The Programming language used
