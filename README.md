@@ -1,7 +1,7 @@
 # A-Star-Algorithm
 
 ## Description of the problem
-In this project a crime risk grid map was generated based on the crime rates data that was provided by the crime_dt.shp file which contains different crime rates data at different part of downtown Montreal. A* Heuristic Search algorithm was used to find the optimal path between any two given points in the grid entered by the user. 
+In this project a crime risk grid map was generated based on the crime rates data that was provided by the crime_dt.shp file which contains different crime rates data at different part of downtown Montreal. A* Heuristic Search algorithm was used to find the optimal path between any two given points (entered by the user) by avoiding the high crime areas in the grid.
 
 
 ## File List
